@@ -1,0 +1,17 @@
+{
+    "Logout": "প্রস্থান",
+    "Confirm Password": "পাসওয়ার্ড নিশ্চিত করুন",
+    "Please confirm your password before continuing.": "চালিয়ে যাওয়ার আগে দয়া করে আপনার পাসওয়ার্ডটি নিশ্চিত করুন।",
+    "Password": "পাসওয়ার্ড",
+    "Forgot Your Password?": "আপনি কি পাসওয়ার্ড ভুলে গেছেন?",
+    "Reset Password": "পাসওয়ার্ড রিসেট করুন",
+    "E-Mail Address": "ই-মেইল ঠিকানা",
+    "Send Password Reset Link": "পাসওয়ার্ড রিসেট লিঙ্ক প্রেরণ করুন",
+    "Register": "নিবন্ধন",
+    "Name": "নাম",
+    "Verify Your Email Address": "আপনার ইমেল ঠিকানা যাচাই করুন",
+    "A fresh verification link has been sent to your email address.": "আপনার ইমেল ঠিকানায় একটি নতুন যাচাইয়ের লিঙ্ক প্রেরণ করা হয়েছে।",
+    "Before proceeding, please check your email for a verification link.": "এগিয়ে যাওয়ার আগে, দয়া করে একটি যাচাই লিঙ্কের জন্য আপনার ইমেল চেক করুন।",
+    "If you did not receive the email": "আপনি যদি ইমেলটি না পান",
+    "click here to request another": "অন্য অনুরোধ করতে এখানে ক্লিক করুন"
+}
